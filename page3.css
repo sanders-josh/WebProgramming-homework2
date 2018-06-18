@@ -12,6 +12,13 @@ td.menu-table{
 	text-align: center;
 }
 
+h2.recipe-title{
+	background-color: #faddaf;
+	color: #91371b;
+	text-align: center;
+	padding: 5px;
+}
+
 body {
 	background-color: #eb712f;
 }
